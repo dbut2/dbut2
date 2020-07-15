@@ -9,7 +9,7 @@
 
 👨🏻‍💻 Engineer at *ANZ*
 
-![](dylan.png)
+![](images/dylan.png)
 
 <!--```php
 class Person {
