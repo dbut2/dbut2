@@ -5,7 +5,8 @@
 
 ## Hi, I'm Dylan!
 
-Engineer at *ANZ* 🏦
+📍 Melbourne, Australia
+👨🏻‍💻 Engineer at *ANZ*
 
 ![](dylan.png)
 
