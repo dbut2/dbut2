@@ -5,7 +5,7 @@
 
 ![](dbut2.png)
 
-```php
+<!--```php
 class Person {
 	public $name = "Dylan Butler";
 	public $languages = ["PHP", "JavaScript", "GO"];
@@ -20,7 +20,7 @@ class Person {
 	}
 	
 }
-```
+```-->
 
 <!--
 **dbut2/dbut2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
