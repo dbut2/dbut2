@@ -24,7 +24,6 @@ class Person {
 	public function shoot() {
 		return "📸";
 	}
-	
 }
 ```-->
 
