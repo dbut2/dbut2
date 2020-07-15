@@ -9,7 +9,7 @@
 
 👨🏻‍💻 Engineer at *ANZ*
 
-![](images/dylan.png)
+![](https://github.com/dbut2/dbut2/raw/master/images/dylan.png)
 
 <!--```php
 class Person {
