@@ -12,6 +12,6 @@
 me := Person{
 	Name: "Dylan",
 	Language: []string{"Go", "PHP", "Javascript"},
-	Website: "https://dylanbutler.net".
+	Website: "https://dylanbutler.net",
 }
 ```
