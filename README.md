@@ -5,5 +5,3 @@
 ## Hi, I'm Dylan!
 
 📍 Melbourne, Australia
-
-👨🏻‍💻 Engineer at *ANZ*
