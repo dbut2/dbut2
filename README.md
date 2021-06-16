@@ -7,11 +7,3 @@
 📍 Melbourne, Australia
 
 👨🏻‍💻 Engineer at *ANZ*
-
-```Go
-me := Person{
-	Name: "Dylan",
-	Language: []string{"Go", "PHP", "Javascript"},
-	Website: "https://dylanbutler.net",
-}
-```
