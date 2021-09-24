@@ -1,7 +1,11 @@
-[![](https://img.shields.io/badge/LinkedIn-dylan--butler-007bb5)](https://www.linkedin.com/in/dylan-butler/)
-[![](https://img.shields.io/badge/HackerRank-dbut2-1ba94c)](https://www.hackerrank.com/dbut2)
-[![](https://img.shields.io/badge/CodinGame-dbut2-f2bb13)](https://www.codingame.com/profile/3fe5f4fd2c6ac3e6040c2f156b16149b8394683)
+<pre>
+$ python3 sherlock dbut2
 
-## Hi, I'm Dylan!
-
-📍 Melbourne, Australia
+[*] Checking username dbut2 on:
+[+] Docker Hub: <a href="https://hub.docker.com/u/dbut2/" target="_blank">https://hub.docker.com/u/dbut2/</a>
+[+] GitHub: <a href="https://www.github.com/dbut2" target="_blank">https://www.github.com/dbut2</a>
+[+] HackerRank: <a href="https://hackerrank.com/dbut2" target="_blank">https://hackerrank.com/dbut2</a>
+[+] LeetCode: <a href="https://leetcode.com/dbut2" target="_blank">https://leetcode.com/dbut2</a>
+[+] Medium: <a href="https://medium.com/@dbut2" target="_blank">https://medium.com/@dbut2</a>
+[+] Telegram: <a href="https://t.me/dbut2" target="_blank">https://t.me/dbut2</a>
+</pre>
